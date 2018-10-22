@@ -144,7 +144,7 @@ $config['mail_detect_folder_prefix'] = "";
 # mail server. Can be useful if you want to type only your mail name
 # instead of a complete mail address at login.
 # (example: frank instead of frank@example.com)
-/*
+*/
 
 
 $config['mail_servers'][] = array(
